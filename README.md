@@ -23,15 +23,12 @@ Para ajudar a entender melhor a estrutura e o fluxo do código, aqui estão algu
 
 ### Diagrama de Classe
 O Diagrama de Classe mostra as classes envolvidas no projeto e suas relações.
-
-- (![Alt text](Screenshot_2.png))
+![Alt text](Screenshot_2.png)
 
 ### Diagrama de Componente
 O Diagrama de Componente ilustra como os principais componentes do sistema interagem entre si.
-
-- (![Alt text](Screenshot_3.png))
+![Alt text](Screenshot_3.png)
 
 ### Diagrama de Sequência
 O Diagrama de Sequência atualizado, agora com cores personalizadas, detalha o fluxo de interações entre o usuário, o programa principal e o gerenciador de tokens.
-
-- (![Alt text](Screenshot_4.png))
+![Alt text](Screenshot_4.png)
