@@ -8,7 +8,7 @@ Este projeto demonstra a implementação de um sistema de autenticação JWT (JS
 
 ao executar esse será o resultado:
 
-- (![Alt text](Screenshot_1.png))
+- ![Alt text](Screenshot_1.png)
 
 ## Características
 * Geração de token de acesso
